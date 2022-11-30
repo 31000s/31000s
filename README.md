@@ -16,7 +16,6 @@
 ## Langauges I know:
 
 <code><img height="30" src="https://img.shields.io/badge/CSHARP-blue.svg?&style=for-the-badge&logo=csharp&logoColor=white"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/924446ea65193e79f9c710d414c2bdeaeb5f7a41714b1d4c3e1b83fc6db4907d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/920069a9a2b2ad9d3ceeeff2ead017cf7cf3090e643ecff9377f2dacaa8350bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3039324532303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d677265656e"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/e988dbddd23f51aed1cafbc52871a54b98a997c8d9750623a7f2c1b7d359bcf4/68747470733a2f2f616b6966393734382e6d652f6261646765732f68746d6c352e737667"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/8b392ec84f9229dfc01109f07f3f50e5226423eef27cb4ca599df4737f9a072b/68747470733a2f2f616b6966393734382e6d652f6261646765732f637373332e737667"></code>
@@ -25,7 +24,6 @@
 
 ## Frameworks and libraries I use:
 <code><img height="30" src="https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"></code>
-<code><img height="30" src="https://img.shields.io/badge/django%20-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap%20-7D11F8.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 
 ## Databases I use:
@@ -35,7 +33,6 @@
 ## Programs I use:
 <code><img height="30" src="https://camo.githubusercontent.com/4fd0df1ee5fa900971e661d2a3cc69588aa1052ff4848a4041fd8db6507a936a/68747470733a2f2f616b6966393734382e6d652f6261646765732f7673632e737667"></code>
 <code><img height="30" src="https://img.shields.io/badge/visual%20studio%20%20-purple.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/intellij%20idea%20%20-black.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/eclipse%20%20-2F2057.svg?&style=for-the-badge&logo=eclipse&logoColor=white"></code>
 
 
