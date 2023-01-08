@@ -33,6 +33,7 @@
 ## Programs I use:
 <code><img height="30" src="https://camo.githubusercontent.com/4fd0df1ee5fa900971e661d2a3cc69588aa1052ff4848a4041fd8db6507a936a/68747470733a2f2f616b6966393734382e6d652f6261646765732f7673632e737667"></code>
 <code><img height="30" src="https://img.shields.io/badge/visual%20studio%20%20-purple.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/sublime%20text%20-gray.svg?&style=for-the-badge&logo=sublime-text&logoColor=orange"></code>
 <code><img height="30" src="https://img.shields.io/badge/eclipse%20%20-2F2057.svg?&style=for-the-badge&logo=eclipse&logoColor=white"></code>
 
 
