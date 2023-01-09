@@ -45,9 +45,9 @@
 <code><img height="30" src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=orange"></code>
 
 ## Design Tools I Use:
- <code><a href="https://www.adobe.com/tr/products/photoshop.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
-<code><a href="https://www.adobe.com/tr/products/photoshop.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/800px-Adobe_InDesign_CC_icon.svg.png"></a></code>
-<code><a href="https://www.adobe.com/tr/products/illustrator.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+<code><a href="#"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
+<code><a href="#"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/800px-Adobe_InDesign_CC_icon.svg.png"></a></code>
+<code><a href="#"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=31000s&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
